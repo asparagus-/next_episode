@@ -14,3 +14,4 @@ a simple little script that you can drop into a directory filled with video file
   <li>"wow! now i dont have to open a bunch of files to realize which episode im on!"</li>
 </ul>
   
+<b>note: </b> since the file's "default program" will be used to open the file, this script, in theory, can be used to open any file in lexicographical order, rather than just video or music files.
